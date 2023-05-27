@@ -6,7 +6,7 @@ MazeSolverVue is a Python Flask API and Vue.js-based program designed to solve m
 
 Click on the image below to watch a 41-second demonstration of MazeSolverVue in action:
 
-[![Project Demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://vimeo.com/830785310?share=copy)
+[![Project Demo](https://vimeo.com/830785310?share=copy)
 
 ## Installation
 
